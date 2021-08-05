@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Ftoon4ibrahim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ftoon4ibrahim/Ftoon4ibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello
+I'm a chemistry student, I'm interested learn more 
+in various fields, especially in the field 
+of artificial intelligence. I learn artificial intelligence
+to gain experience in it and for my passion.
+I’m looking to collaborate on Udacity
+Thank you.
